@@ -1,6 +1,6 @@
 ## ML System Dashboard
 
-![Hopsworks Logo](/sentiment/assets/img/logo.png)
+![Hopsworks Logo](./sentiment/assets/img/logo.png)
 
 Our ML System is :
 
