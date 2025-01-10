@@ -97,15 +97,15 @@ conda deactivate
 ### **Model Evaluation**
 
 #### **Training Confusion Matrix**
-![Training Confusion Matrix](reviews_sentiment_model/image/training_confusion_matrix.png)
+![Training Confusion Matrix](reviews_sentiment_model/images/training_confusion_matrix.png)
 
 #### **Testing Confusion Matrix**
-![Testing Confusion Matrix](reviews_sentiment_model/image/testing_confusion_matrix.png)
+![Testing Confusion Matrix](reviews_sentiment_model/images/testing_confusion_matrix.png)
 
 ### **Feature Importance**
 Feature importance as determined during model training:
 
-![Feature Importance](reviews_sentiment_model/image/feature_importance.png)
+![Feature Importance](reviews_sentiment_model/images/feature_importance.png)
 
 - **Top Features**:
   - `stupid`
