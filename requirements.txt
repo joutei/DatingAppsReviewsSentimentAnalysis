@@ -1,3 +1,4 @@
+notebook
 google_play_scraper
 schedule
 requests_cache
