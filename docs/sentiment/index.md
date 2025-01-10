@@ -2,7 +2,7 @@
 
 {% include sentiment.html %}
 
-![Forecast](./assets/img/pm25_forecast.png)
+![Analysis](./assets/img/sentiment_topics.png)
 
 
 The figure above represents the sentiment analysis on the reviews submitted during last week of the dating app Tinder.
