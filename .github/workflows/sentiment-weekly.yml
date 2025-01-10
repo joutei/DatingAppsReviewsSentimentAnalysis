@@ -24,7 +24,7 @@ jobs:
           cache: 'pip'
       - name: install python packages
         run: |
-          
+          pip install "hopsworks[python]"
           pip install -r requirements.txt
 
       - name: Verify installed packages
