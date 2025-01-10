@@ -97,10 +97,10 @@ conda deactivate
 ### **Model Evaluation**
 
 #### **Training Confusion Matrix**
-![Training Confusion Matrix](reviews_sentiment_model/images/confuusion_matrix_train.png)
+![Training Confusion Matrix](reviews_sentiment_model/images/confusion_matrix_train.png)
 
 #### **Testing Confusion Matrix**
-![Testing Confusion Matrix](reviews_sentiment_model/images/confuusion_matrix_test.png)
+![Testing Confusion Matrix](reviews_sentiment_model/images/confusion_matrix_test.png)
 
 ### **Feature Importance**
 Feature importance as determined during model training:
